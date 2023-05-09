@@ -1,0 +1,4 @@
+1 name1 surname1 date1 0 tanamdeboba1 243
+2 name2 surname2 date2 1 tanamdeboba2 23243
+3 name3 surname3 date3 1 tanamdeboba3 243
+4 name surname4 date4 1 tanamdeboba4 23243
